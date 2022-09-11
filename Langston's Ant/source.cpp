@@ -1,6 +1,5 @@
 /*
 Author: Aman Patel
-Class: ECE 4122
 Last Modified Date: 9/24/2021
 
 Description: Implementaion of langston's ant problem. Takes in the total
